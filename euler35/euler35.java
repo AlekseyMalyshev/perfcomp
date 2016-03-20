@@ -1,5 +1,6 @@
 //
-// (C) Aleksey Malyshev
+// (C) Aleksey V Malyshev
+// aleksey.malyshev@mail.ru
 //
 // Java solution for Project Euler problem #35
 // 

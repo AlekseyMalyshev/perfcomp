@@ -1,5 +1,6 @@
 //
-// (C) Aleksey Malyshev
+// (C) Aleksey V Malyshev
+// aleksey.malyshev@mail.ru
 //
 // JavaScript (ES6) solution for Project Euler problem #35
 // 
